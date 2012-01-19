@@ -1,0 +1,2 @@
+User.create!(:name => "Ning Xu", :email => "ningxu@example.com", :password => "foobar", :password_confirmation => "foobar")
+User.create!(:name => "foo", :email => "foo@example.com", :password => "foobar", :password_confirmation => "foobar")
